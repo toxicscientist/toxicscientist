@@ -4,8 +4,6 @@
 [![javascript]](https://en.wikipedia.org/wiki/JavaScript)
 [![typescript]](https://www.typescriptlang.org/)
 
-Sorry for all of the scripts
-
 [My website][website]
 
 <img align="center" alt="Nerdopedia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=toxicscientist&theme=synthwave&border_radius=25" />
